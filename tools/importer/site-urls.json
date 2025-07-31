@@ -1,0 +1,1871 @@
+{
+  "originUrl": "https://auto.mahindra.com",
+  "lastCrawled": "https://auto.mahindra.com/",
+  "urls": [
+    {
+      "url": "https://auto.mahindra.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "cc85ee9a30b12dcc6ca43787cbbfe29a08e35c72"
+    },
+    {
+      "url": "https://auto.mahindra.com/about-us.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us",
+      "id": "186a3974539432b7e127738dc166f7c3bd871559"
+    },
+    {
+      "url": "https://auto.mahindra.com/amc-sitemap.html",
+      "source": "SITEMAPS",
+      "targetPath": "/amc-sitemap",
+      "id": "2e4a89b1fe67794caec85636f9f275658b85a11f"
+    },
+    {
+      "url": "https://auto.mahindra.com/apps-download.html",
+      "source": "SITEMAPS",
+      "targetPath": "/apps-download",
+      "id": "b1e417936ecbc827cae44cf96781a3296ebd8afe"
+    },
+    {
+      "url": "https://auto.mahindra.com/bolero-pickup-enquiry.html",
+      "source": "SITEMAPS",
+      "targetPath": "/bolero-pickup-enquiry",
+      "id": "785f3657eeae18f730c6bf8c7285f0e18591aa1e"
+    },
+    {
+      "url": "https://auto.mahindra.com/bolero-pickup-enquiry/bolero-pickup-enquiry-thankyou.html",
+      "source": "SITEMAPS",
+      "targetPath": "/bolero-pickup-enquiry/bolero-pickup-enquiry-thankyou",
+      "id": "2cc0b7017ef366dd38685f846d169223bbe1f1d6"
+    },
+    {
+      "url": "https://auto.mahindra.com/careers.html",
+      "source": "SITEMAPS",
+      "targetPath": "/careers",
+      "id": "774ba5b2e4978a76d863378512f379ec1c5f1d1f"
+    },
+    {
+      "url": "https://auto.mahindra.com/commercial",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial",
+      "id": "3e8a50da8872a2ac37c07506c35959b4ab8a7090"
+    },
+    {
+      "url": "https://auto.mahindra.com/contact-us.html",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us",
+      "id": "44be38d7a51e6765abd00dc77d78c6e4f4149da5"
+    },
+    {
+      "url": "https://auto.mahindra.com/cv-enquiry-form.html",
+      "source": "SITEMAPS",
+      "targetPath": "/cv-enquiry-form",
+      "id": "e9a7a2f790856708f6594f105c9e70924609f879"
+    },
+    {
+      "url": "https://auto.mahindra.com/cv-enquiry-form.html?pid=MAXX",
+      "source": "SITEMAPS",
+      "targetPath": "/cv-enquiry-form",
+      "id": "856a7ca30a887631e17dfa30b9a2334c033bbab3"
+    },
+    {
+      "url": "https://auto.mahindra.com/dealer-locator",
+      "source": "SITEMAPS",
+      "targetPath": "/dealer-locator",
+      "id": "25890a05c1305cace290893d863d9e6725836393"
+    },
+    {
+      "url": "https://auto.mahindra.com/homepage.html",
+      "source": "SITEMAPS",
+      "targetPath": "/homepage",
+      "id": "3cd8ac329bc170b3b16588e4c6b83e00b124fe05"
+    },
+    {
+      "url": "https://auto.mahindra.com/lease-subscribe.html",
+      "source": "SITEMAPS",
+      "targetPath": "/lease-subscribe",
+      "id": "8b4ba0adf21678a2d221847b1957c11ff3610d77"
+    },
+    {
+      "url": "https://auto.mahindra.com/mahindra-suv-finance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/mahindra-suv-finance",
+      "id": "1920837c350262925d00714b710de2ee5842b6fc"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=blkscn-z8t",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "51d33fd8b64902a16a1413b3a75ce0fb57906060"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=ebn-ax7-ebony",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "f1d788650c0b24b8129e4da7deda3c3334684576"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=ebn-ax7-l-ebony",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "f06bddec8bc24ee9ca44917f5b43c9997becbf37"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=lease-BOL",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "0b177135217a82b31ece260d778d5a6a02d9ae71"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=lease-MRZO",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "3c817de976d74541626147cbcdff01d6990ccb6d"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=lease-NEO",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "d5fc1fc060bcca9a68aac7ce51126c0bc83d1709"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=lease-SCN",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "2fb0d4ffde6d033572aba785474f18a6a0892192"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=lease-SCRC",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "a34e3eae50f07e939c8dda59ddfb4a29bec02141"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=lease-TH5D",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "7abe0cf0ba0f569c811fc9f5959d645447b5a2cd"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=lease-THRN",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "914e47820982c1233ff968586cbc392e0cf7c768"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=lease-X3XO",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "d335d289c5f53261f8df2cbd85679ef8537a80a0"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=lease-X400",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "d5559e512ddb0b171b1cc28cc6d8819ee099e638"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=lease-X700",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "351811b45952c257d91b5da515c9ea74be07a2ee"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=revx-a",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "dc9c4abd61e066f664ddf07343b43d12a25b36dc"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=revx-m",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "6d0b837f629797896220994d6f8a0abcd12ea299"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=revx-m-o",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "3f8aaa5f1e4947c2d6b9a5f06425d6d8cd69428d"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=X3XOREVX",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "95c82e040a6aefada3de91036914596b89dfeb55"
+    },
+    {
+      "url": "https://auto.mahindra.com/on/demandware.store/Sites-amc-Site/en_IN/Search-Show?cgid=X700EBN",
+      "source": "SITEMAPS",
+      "targetPath": "/on/demandware-store/sites-amc-site/en-in/search-show",
+      "id": "7651281d66926924ff6d91803c5d791619448f83"
+    },
+    {
+      "url": "https://auto.mahindra.com/own-online/model-selection",
+      "source": "SITEMAPS",
+      "targetPath": "/own-online/model-selection",
+      "id": "40b4aa2783f89946a753c87842be549575af7939"
+    },
+    {
+      "url": "https://auto.mahindra.com/pages/global/global-pikup.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pages/global/global-pikup",
+      "id": "33d2da6fbdff4503248891d882bfec6bd9819c82"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/bolero-camper.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/bolero-camper",
+      "id": "56acd96015a86d4f11bda553c9b3d1f78d9cf05c"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/bolero-camper/bolero-camper-enquiry.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/bolero-camper/bolero-camper-enquiry",
+      "id": "8f228a387bdfb2dbeff29faa9bab33894870407b"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/bolero-camper/bolero-camper-feature-and-specification.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/bolero-camper/bolero-camper-feature-and-specification",
+      "id": "1208dd9e67df123bfc362697b994f168a17c6d2b"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/bolero-camper/enquiry/bolero-camper-enquiry-thankyou.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/bolero-camper/enquiry/bolero-camper-enquiry-thankyou",
+      "id": "80a2b40d090d8ba6999a10c436e17f04b209ddf7"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/bolero-pik-up.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/bolero-pik-up",
+      "id": "3925483ee2bb1bdd3a7918805ff790a9df153d68"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/bolero-pik-up/bolero-pik-up-feature-and-specifications.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/bolero-pik-up/bolero-pik-up-feature-and-specifications",
+      "id": "838e6c12dbf8d802d7b56da9c4ebd5123ead5639"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/bolero-pik-up/bolero-pikup-faqs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/bolero-pik-up/bolero-pikup-faqs",
+      "id": "c18909502fbf9064b1d5730bcf366224c8bad9aa"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/bolero-pik-up/gallery.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/bolero-pik-up/gallery",
+      "id": "9a0746b41f8b86f5af5f5470a66d0d6d0bf864a2"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-city/MAXX.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/maxx-city/maxx",
+      "id": "5a18d1d2314d7035ad7db0d84c5bddcea35dad96"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-hd.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/maxx-hd",
+      "id": "a9889d69cefe011b94b2476c26cd2f8d90aa4a5c"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-hd/enquiry/maxx-hd-enquiry-thankyou.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/maxx-hd/enquiry/maxx-hd-enquiry-thankyou",
+      "id": "0acb5c327d0160b71a5f986b8b0cb7823d8fe542"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-hd/hd-cng.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/maxx-hd/hd-cng",
+      "id": "2e1a73d07068ef9f36e6eb8981981ddcc615387c"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-hd/maxx-hd-enquiry.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/maxx-hd/maxx-hd-enquiry",
+      "id": "0ec0b3f978fddf29d8d36656e478098c4fef425b"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-hd/maxx-hd-feature-and-specifications.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/maxx-hd/maxx-hd-feature-and-specifications",
+      "id": "c22f6a87f3afade14032d967d45df0ea32c84e47"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-hd/pik-up-agriculture-carrier-application.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/maxx-hd/pik-up-agriculture-carrier-application",
+      "id": "ed1e0dec97a8f9437dd3f711921d05861cd0ebad"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-hd/pik-up-construction-material-carrier-application.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pick-up-trucks/maxx-hd/pik-up-construction-material-carrier-application",
+      "id": "a0c66072d8e16dbd4f7db97a2c1ae6eb184df44b"
+    },
+    {
+      "url": "https://auto.mahindra.com/pv-enquiry-form.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pv-enquiry-form",
+      "id": "5ff2b6beffb3f9b211e6e0e6cf8e015581e5f2c7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv",
+      "source": "SITEMAPS",
+      "targetPath": "/suv",
+      "id": "87550a3302d4ed8198b1fec93c6e68e20afd630c"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/bolero-neo-plus-p10-diesel/NEOPM025617241190.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/bolero-neo-plus-p10-diesel/neopm025617241190",
+      "id": "3ba8a4878b748bf531be02362ed919a032b32dcd"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/bolero-neo-plus/NEOP.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/bolero-neo-plus/neop",
+      "id": "33290dc80c91ac6dc7ac666d745c5a9e43c37025"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/bolero-neo/NEO.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/bolero-neo/neo",
+      "id": "25198c3fbcb22f240ad7babdfe255712b8ac91e5"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/bolero/BOL.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/bolero/bol",
+      "id": "e4dc40a4ec1927f8c55012f3dac6374365ad22b5"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/marazzo/MRZO.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/marazzo/mrzo",
+      "id": "f3ba39494ea289a9aa6cbeef437ab4a1e103e6b1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-classic/SCRC.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-classic/scrc",
+      "id": "c4315e91abf81f69d7b5ed6ed420edf99654720a"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-l-carbon-diesel/SCNM077717892609.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-l-carbon-diesel/scnm077717892609",
+      "id": "0658c5bb69584cbda4324caa6a2fbd17150cacac"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-l-carbon-diesel/SCNM077817892690.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-l-carbon-diesel/scnm077817892690",
+      "id": "d964fa02e6ecf78652c650ad311d7851fed464e4"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-l-carbon-diesel/SCNM077917892632.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-l-carbon-diesel/scnm077917892632",
+      "id": "aec8c021ae01243e2a31b5e2b3e05c0caaaeaa99"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-l-carbon-diesel/SCNM078017892698.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-l-carbon-diesel/scnm078017892698",
+      "id": "3e3d30298ac0eb2ce6994374eb40d0cd15839938"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-l-carbon-petrol/SCNM078117892715.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-l-carbon-petrol/scnm078117892715",
+      "id": "637c1ae0ea2c0b17a6d6a4e35e71d083f5bee4e9"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-l-carbon-petrol/SCNM078217892637.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-l-carbon-petrol/scnm078217892637",
+      "id": "ddf47482417a9ac19245f74965235cb316c8218e"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-t-carbon-diesel/SCNM078917892649.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-t-carbon-diesel/scnm078917892649",
+      "id": "64dc584e60d39559f695f78f5cbf2918ca382076"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-t-carbon-diesel/SCNM079017892630.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-t-carbon-diesel/scnm079017892630",
+      "id": "1af303caf73165e20b4c684831d91acc9f600df7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-t-carbon-diesel/SCNM079117892595.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-t-carbon-diesel/scnm079117892595",
+      "id": "22744c3f7a94e7d0188956001672336bb1effd72"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-t-carbon-diesel/SCNM079217892584.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-t-carbon-diesel/scnm079217892584",
+      "id": "17b2c523afc1cbc96622be5eb29e5dd952da5227"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-t-carbon-petrol/SCNM079317892735.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-t-carbon-petrol/scnm079317892735",
+      "id": "c3a094c257f710280a4742272b1c598b5f5727eb"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n-z8-t-carbon-petrol/SCNM079417892670.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n-z8-t-carbon-petrol/scnm079417892670",
+      "id": "cdc21c76355fdd9e65e2fab43c6d6687b3a63ef5"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/scorpio-n/SCN.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/scorpio-n/scn",
+      "id": "3b845d2c9ebdbe2ef9881029c98d380053e5a8e3"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/thar-roxx/TH5D.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/thar-roxx/th5d",
+      "id": "089ace07a2d8944545aa3835b22fd3d27d0f80c7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/thar/THRN.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/thar/thrn",
+      "id": "dd1c4b9777a84ec913b6bdf5321b88d80668ed37"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM042917522774.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom042917522774",
+      "id": "37fc51167b3eda8c1373c8bf0082700524411eca"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM042917522778.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom042917522778",
+      "id": "4a4f31d57aac6b70b50573471e8617b01c92ef99"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM042917522865.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom042917522865",
+      "id": "0f837c03ed5251a356c48b257949dc3944e46088"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM042917522899.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom042917522899",
+      "id": "16305285cb4d17c6e410139a57c16d9eab70ba5d"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM042917522905.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom042917522905",
+      "id": "d4ebfa676e671d9bdc8c3d26d8f8ed292e72aa07"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM042917523246.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom042917523246",
+      "id": "e4b8885a2982d4721fb89050faa6c214f6fbf4ee"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM042917523331.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom042917523331",
+      "id": "8bea2505618c43048d3de553583c6e1bc5db76cc"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM042917523332.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom042917523332",
+      "id": "cbcf24e986990d8def56a94f993f78cbfccec7d5"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM043017522782.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom043017522782",
+      "id": "c817acbcf16e42a0c8dfc918afce8de2e2d58cef"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM043017522787.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom043017522787",
+      "id": "388c9db46f4713a62ec5b6fa29341fe43568dc28"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM043017522869.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom043017522869",
+      "id": "fc091788f95c9f3e44111b1c657744ab650b68e0"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM043017522911.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom043017522911",
+      "id": "4d55ce4a7a1a329c611750edb18c66ac3e9a8557"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM043017522916.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom043017522916",
+      "id": "7d228e7535e38a365997e8123e7cdc5a98116717"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM043017523250.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom043017523250",
+      "id": "0b4ffff83944798bcfe8a294743033811db023c6"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM043017523334.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom043017523334",
+      "id": "521ced85c861f4ff2707a13d2d60f6ac9d5db97c"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-diesel/X3XOM043017523336.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-diesel/x3xom043017523336",
+      "id": "bb3ed7696b845c44d63966b27d36b82aef3815b1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042017522763.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042017522763",
+      "id": "1c5efd45e8466efd70f4c819404a376d3324ec7f"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042017522765.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042017522765",
+      "id": "4cde8bda8be3c78b3622e79627836d847078a083"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042017522834.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042017522834",
+      "id": "52ed97e186aa1d15fe420b5d71f73e08e84f877c"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042017522872.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042017522872",
+      "id": "e829d68d34a61dbe487243bbe71029777346c5d9"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042017523229.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042017523229",
+      "id": "58f843b2344101fa6c4d084e4953685f3d91da62"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042017523232.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042017523232",
+      "id": "674cdce253778e31a422f7d4158a76a2a7d70da1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042017523321.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042017523321",
+      "id": "528c8d82a2327d59f72abbc9ccec98628e4bccc7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042017523323.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042017523323",
+      "id": "79a0be52e8d1b275e3324f741d43a642c249773a"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042117522768.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042117522768",
+      "id": "461985ed0c147612f8f9009335336bd93397cc78"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042117522839.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042117522839",
+      "id": "486d74b0ef44d6879fbfacdb293a43c2131222a5"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042117522876.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042117522876",
+      "id": "29d2c8038ff7e0b9f673cecda594de9d3825d6e7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042117522882.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042117522882",
+      "id": "8290eb6298e07b9735f721c76566f058ba4a517f"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042117523235.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042117523235",
+      "id": "c831c07be3c48b2ca638595559b6d8be4e3a22fc"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042117523239.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042117523239",
+      "id": "5fe03227dc779469bb532728ca0e9815e734c058"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042117523324.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042117523324",
+      "id": "2621395382b994db7788b6edee983af38ecc5846"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-l-petrol/X3XOM042117523326.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-l-petrol/x3xom042117523326",
+      "id": "dab1d22bfb09863179f645333518fae0265d010d"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043117522766.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043117522766",
+      "id": "2afe1c71c594ce913d1d9fd43f0a632becb9cc7e"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043117522769.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043117522769",
+      "id": "19a7f2734d6b8d063bae3bcfd38e69f8f7a23abd"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043117522791.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043117522791",
+      "id": "a25748f0b94dacf8ef44e07341a2a8b9eb97ef69"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043117522795.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043117522795",
+      "id": "aef31fa4b76506221bf2bb5d99f220a582c23490"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043117522874.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043117522874",
+      "id": "1cf3e5f885f2dc2259a44682be4438a634cafae9"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043117522922.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043117522922",
+      "id": "6e841d020dab43769b635513f0057cb758b77d84"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043117523253.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043117523253",
+      "id": "7921a83ab847eeda4ded38f46762d3436c6d8801"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043117523337.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043117523337",
+      "id": "dbce728a9ec499b6de8b38e05cbf4426cec33f84"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043217522773.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043217522773",
+      "id": "8d1338b5b15a5f76cd354f6335071747fb9a60e8"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043217522777.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043217522777",
+      "id": "0bb9d530b237defab2c530a0e4237ba7487f115e"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043217522800.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043217522800",
+      "id": "5b66dd693dd383d100104cf44b79d46a34eef043"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043217522805.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043217522805",
+      "id": "44b19048230146e2f65ab84037047de52b470dd7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043217522880.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043217522880",
+      "id": "c0f71d5d0f7e2ee3889e96c313fc2f7655077684"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043217522886.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043217522886",
+      "id": "c96c530a1cc4168deaa2b5c4d0e5f465df80ea30"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043217522927.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043217522927",
+      "id": "95e26ab74e00f333f889a1fad5164cc9ee3c6817"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax5-petrol/X3XOM043217523257.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax5-petrol/x3xom043217523257",
+      "id": "48bd4d20a24df85ecd4eb673eba6a16e86bba9de"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042217522641.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042217522641",
+      "id": "f70f6a4a87e5cf6785326d2dafe78e1b9d03125e"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042217523269.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042217523269",
+      "id": "c2aae0c76b1a470481e8b7c4a75402effb43592a"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042217523273.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042217523273",
+      "id": "148bd3d9648356a2f36ee674544689c5e83b1ea0"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042217523277.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042217523277",
+      "id": "782fe37741c959eaac649b83bc8782245d608457"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042217523279.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042217523279",
+      "id": "9e52f8eca453e9efb50d83a6d98a84501b3043a4"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042217523282.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042217523282",
+      "id": "486fd49c41d25c0ec2888965c09e0736f07e3493"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042217523285.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042217523285",
+      "id": "335de80b642e66ebcb5160ef848ddff851c7a18b"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042217523287.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042217523287",
+      "id": "58acd854fc78568e403f169bad59678a6dc1142b"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042317522797.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042317522797",
+      "id": "63040b64c0193858c015d0559f7222cb9c577d84"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042317522802.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042317522802",
+      "id": "67d580444ba79c9156f052d767e23afa9420c112"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042317522846.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042317522846",
+      "id": "abc7b4c049d03a9cd9b029c51fedfd79f0dc30b8"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042317522851.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042317522851",
+      "id": "8e4fefe6d440a831f6fc2f89bcf97497a227ad80"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042317523290.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042317523290",
+      "id": "605c5aadf297cf2b2d16ccc0c7e87d8f5d6ddf3e"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042317523293.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042317523293",
+      "id": "a589a1caf97661496576de2e1302983cb09d4708"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042317523296.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042317523296",
+      "id": "81063a2e1f27253316cedd1c9bb85f8d749f37a1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-diesel/X3XOM042317523299.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-diesel/x3xom042317523299",
+      "id": "e175ae4a4ca03c19234a16718a92466d2889a3df"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-diesel/X3XOM043717522807.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-diesel/x3xom043717522807",
+      "id": "77771920ef78d2dca1767b824f1d6eb26415afc1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-diesel/X3XOM043717522813.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-diesel/x3xom043717522813",
+      "id": "16af7b54af1077e8f5801330de07b623c718fbf4"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-diesel/X3XOM043717522819.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-diesel/x3xom043717522819",
+      "id": "56294fa11858d8aea239e6097d7b98099718c070"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-diesel/X3XOM043717522825.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-diesel/x3xom043717522825",
+      "id": "e6026c3fc7e5bf79d7560396919b6501e6550a71"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-diesel/X3XOM043717522831.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-diesel/x3xom043717522831",
+      "id": "f88706ca868ee82d515426c998dee6c7b9111da9"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-diesel/X3XOM043717522837.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-diesel/x3xom043717522837",
+      "id": "77b8d77598add87d960fc14cfb9b197df3d1f213"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-diesel/X3XOM043717522856.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-diesel/x3xom043717522856",
+      "id": "4d499657108530606c4fe8ce1542ad7db454c7a1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-diesel/X3XOM043717522861.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-diesel/x3xom043717522861",
+      "id": "f2e797ee7ccd1cf65db593a8989482d75d5dbb71"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043817523192.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043817523192",
+      "id": "525973e45bc2ba7b41d6a4b55054d678fdd79ebd"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043817523197.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043817523197",
+      "id": "5f52ed330aa6e8593600b5f3b0e9983aba2d8279"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043817523203.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043817523203",
+      "id": "fe83dd3a4ea49781405b6986ff31346327cfc252"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043817523209.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043817523209",
+      "id": "cdaad2dad82dbebd3bf2b47e6276053a96617b81"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043817523213.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043817523213",
+      "id": "a60a8739ad6f79e5d16ead1076ef2a07af9bdfb3"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043817523252.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043817523252",
+      "id": "d2b41e193563f2316d608eb2e36c63bc052d0cd6"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043817523255.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043817523255",
+      "id": "df648d24b8637f1c5fb7f94ba34d5697c8732e18"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043817523259.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043817523259",
+      "id": "2bb5c6ce5346a3a3f621bba09dd52c8ef0da9f1d"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043917523217.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043917523217",
+      "id": "a66a5cc20273a19df85142e4317ca83a6ece17b7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043917523221.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043917523221",
+      "id": "1f2dbc7a6cb5258a8cab139b3de05a7d09c0136f"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043917523224.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043917523224",
+      "id": "5ba9d332893e41b62a244449234ce8e2b1de7ebd"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043917523227.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043917523227",
+      "id": "ab360a2e04b2119310c0a755c831038e1c1401d1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043917523262.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043917523262",
+      "id": "b5d2292f72dec5b0193d451f7621924d5bef0d38"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043917523266.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043917523266",
+      "id": "2596064350acf75951273dc4d24aacc6413bd531"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043917523270.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043917523270",
+      "id": "c1303422b540595c3cdc2c28894c26baec9d283e"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-l-petrol/X3XOM043917523274.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-l-petrol/x3xom043917523274",
+      "id": "7b06f67ae9325b03e308a4448865901a42810f75"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042417523141.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042417523141",
+      "id": "0ff38f72e68e8e0fa230dc93de60539093a888d7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042417523148.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042417523148",
+      "id": "764de631b58c919f97a979673254c70a88e3adf2"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042417523153.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042417523153",
+      "id": "5217c05dd6b08cde22d4b60e0713af95518d3c3b"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042417523159.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042417523159",
+      "id": "e39e9223679bb9d537fa8d2985b7b57e63299c4e"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042417523164.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042417523164",
+      "id": "a254cdb9a4faca60e728fa8143a29b4a0a83f8c6"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042417523230.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042417523230",
+      "id": "bdbd30b8f6808d27dc7b7683261a9da0dd8c29f7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042417523233.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042417523233",
+      "id": "71242e9e273006bfcb099788344547cdeaac500a"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042417523236.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042417523236",
+      "id": "07ceac93e09e7ff958c279f84feed7c74af42810"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042517523170.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042517523170",
+      "id": "08770b8533d350e8df794e8ae034b3cd5fed5b58"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042517523175.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042517523175",
+      "id": "b3e17df064abe0c549b542fd22a72e7aabd8d030"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042517523180.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042517523180",
+      "id": "488784be2c9efb3f7074cfa15bd5012ac57cc499"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042517523184.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042517523184",
+      "id": "528abbf752046a68f79c76d212bb9438f376a880"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042517523188.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042517523188",
+      "id": "6499a957bdc13bb7c2d54a5748d4740f22b52815"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042517523240.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042517523240",
+      "id": "0f12c7ef7eb95b7c1f33492cd558e68df331290d"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042517523244.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042517523244",
+      "id": "30023a579f23cb1129af0918371251c364576e15"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-ax7-petrol/X3XOM042517523248.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-ax7-petrol/x3xom042517523248",
+      "id": "ea579f1a4ef55d1c32595a9f18d6253da5c8b3b7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx1-petrol/X3XOM041317245684.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx1-petrol/x3xom041317245684",
+      "id": "ffb09f4bdeba593f4b74bfa7f2d23451c28bf451"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx1-petrol/X3XOM041317522809.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx1-petrol/x3xom041317522809",
+      "id": "44bf25eea9a1c22e6b73a58a63786456ffae363d"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx1-petrol/X3XOM041317522933.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx1-petrol/x3xom041317522933",
+      "id": "54307346397fe3c07d429877fdd58227bb9524d9"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-diesel/X3XOM041117245482.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-diesel/x3xom041117245482",
+      "id": "5ca3fb21cd3b9fab58b9c2878555ecfe7d71747d"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-diesel/X3XOM041117522582.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-diesel/x3xom041117522582",
+      "id": "26f6474bee52d6742b42a215445748e9d44fb992"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-diesel/X3XOM041117522812.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-diesel/x3xom041117522812",
+      "id": "955f8cd081d9249cfc81ba4cef73001ca4f00427"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-diesel/X3XOM041117522862.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-diesel/x3xom041117522862",
+      "id": "4506f707fb12016c61171f7112deb2983d7494ee"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-diesel/X3XOM041117522867.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-diesel/x3xom041117522867",
+      "id": "98574447bb8213ea0313a9b96b04c578183b1012"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-diesel/X3XOM041117523226.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-diesel/x3xom041117523226",
+      "id": "a56650743b93ac288c55fd5264759b2f77037126"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-diesel/X3XOM041117523319.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-diesel/x3xom041117523319",
+      "id": "2ba01cb09e0ccca7c70bc92fb43ae0bbbf7974f7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-diesel/X3XOM044317522781.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-diesel/x3xom044317522781",
+      "id": "0f265bed812fd9ecfea0abd55d60b7ae5b3e5fe0"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-diesel/X3XOM044317522815.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-diesel/x3xom044317522815",
+      "id": "a446db5d39d90a2ddb207ce52445e471117b1e77"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-diesel/X3XOM044317522821.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-diesel/x3xom044317522821",
+      "id": "f3cd43a6ad6c9792abbdb7f4ac50259339e5cd22"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-diesel/X3XOM044317522892.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-diesel/x3xom044317522892",
+      "id": "94e00570af89e534d4d813c7cf75276353fd5c4a"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-diesel/X3XOM044317522938.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-diesel/x3xom044317522938",
+      "id": "dfe1d26d422da052002aae3d9cdd33829dfa1de1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-diesel/X3XOM044317522942.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-diesel/x3xom044317522942",
+      "id": "4abacb5fdd2fe1eb197aaa077274fa8c3dd6ac17"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-diesel/X3XOM044317523261.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-diesel/x3xom044317523261",
+      "id": "308714376125019e09f4e5ec8ee3239f86bbd373"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM041417245685.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom041417245685",
+      "id": "acd23bebd3e6a67d5be7478a270a0c98e838854b"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM041417523105.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom041417523105",
+      "id": "72b9e1750c578858b0ac742037f8a3dd69a09b9c"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM041417523112.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom041417523112",
+      "id": "35b500c97c804488f11877538c6372d9c1a0f1bf"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM041417523118.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom041417523118",
+      "id": "764c87b7cca227d79c33cd93c8f65903bb829589"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM041417523122.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom041417523122",
+      "id": "16f93a7ce681bd71fd554a0c2d8c1074f01e6c58"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM041417523129.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom041417523129",
+      "id": "eacae35d2778eb4602bfa075f855c1a6a09c0679"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM041417523134.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom041417523134",
+      "id": "2923a387ec5e9caeea41b39996258ad2c4b00672"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM044417522785.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom044417522785",
+      "id": "a6cb1ba7a5574e2f0f24eeb0765881c60e33af22"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM044417522827.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom044417522827",
+      "id": "9a8414bed59a4901888106e9aaa1f5c17133624f"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM044417522833.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom044417522833",
+      "id": "18f70e14838148ba43776a4100799fb56674784e"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM044417522898.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom044417522898",
+      "id": "43a375f56830b30ad29ec85f840f61127f75a8ad"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM044417522948.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom044417522948",
+      "id": "39560ba451ebe14f3cdefbdd97faaf2e93cf2611"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM044417522952.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom044417522952",
+      "id": "b48197f843adc9ee14cdae3622bec6d7da95c7ac"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx2-pro-petrol/X3XOM044417523265.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx2-pro-petrol/x3xom044417523265",
+      "id": "446911bf54d78321b2567a87b7d52bac18469717"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM041217245683.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom041217245683",
+      "id": "1e6d8bd8818a35d69b60a8a629535cbbc31690b4"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM041217522770.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom041217522770",
+      "id": "eb6c75fa4d29e7e429af169ac7707412a6727926"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM041217522850.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom041217522850",
+      "id": "05aa091c7bc8ddd7229f72dc623b1d2c556f108b"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM041217522888.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom041217522888",
+      "id": "fc60e23e77b941b83d4e9aff154bd61b5b6e999c"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM041217522894.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom041217522894",
+      "id": "5bd1d22a83173cc2fed65b6ac2427b2fd0972d4b"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM041217523242.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom041217523242",
+      "id": "a925f3356cbd19ac7d89f819d2e09e17206e70f0"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM041217523328.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom041217523328",
+      "id": "842f4649746d23dcf977720a4b237c424ca8e02f"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM042617522779.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom042617522779",
+      "id": "1fb9bd76a17e7da979cc96d734193c824d1e7a9c"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM042617522783.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom042617522783",
+      "id": "08a7d932957b802a1ac403b14f18fc74fddbca96"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM042617522845.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom042617522845",
+      "id": "3514af42337d6f2943fed247da3f4173b71d6789"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM042617523084.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom042617523084",
+      "id": "6c0b2c31cd3e5e9dc2e06c3094c3bcb4b42ab1ff"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM042617523086.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom042617523086",
+      "id": "5a93b58a12e464a4cd7346e48e5478f0c1bfe0a3"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM042617523093.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom042617523093",
+      "id": "fa4e4cfc383260c6d66534707811f609e9e87f77"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-diesel/X3XOM042617523097.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-diesel/x3xom042617523097",
+      "id": "30e4f1f93d9c4a7a966ba77b7f8f7b68c3a531a5"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042717522788.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042717522788",
+      "id": "2a057d4a747097cb5f77d2580d5f34106d952559"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042717522792.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042717522792",
+      "id": "ad7005f6375e051e8fcd654964c247510f9ffdc0"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042717522796.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042717522796",
+      "id": "6c1dacf670b46afdb2b3459d920dcaf3a54b7693"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042717522855.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042717522855",
+      "id": "b199aecd45f3ea19254fa70845dcc0121a48b243"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042717523103.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042717523103",
+      "id": "4925dc75ab40f7b9a72d032945058cf53676383b"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042717523109.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042717523109",
+      "id": "1952ee3ea03e038139f0af4c5bd5a68b501d9b89"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042717523115.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042717523115",
+      "id": "42c39107d8061e7924acf84f997651f876c48851"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042817522801.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042817522801",
+      "id": "29128a87fea9c711ea22be8a3f37bbced239ad88"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042817522806.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042817522806",
+      "id": "43d46114619e24918a0755629c119e92d2a4b0b1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042817522859.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042817522859",
+      "id": "7d9cc26dad7e3a88f9b1c2e34e894a52b3d07935"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042817523121.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042817523121",
+      "id": "9bb6faa68411291ab48a98cd15837e0240ffbbfb"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042817523128.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042817523128",
+      "id": "c1a982b1b2240e735a5c75075db063ff3d0a565e"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042817523133.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042817523133",
+      "id": "8f7d23fbdd8d83248ad5ede2c9a73dd206ace3c1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-petrol/X3XOM042817523329.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-petrol/x3xom042817523329",
+      "id": "ce7795614775388a6e6b3729c1c6848670dd67ff"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-diesel/X3XOM041717522757.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-diesel/x3xom041717522757",
+      "id": "f179e6b8639b8990d1c947e8dd9c6d275a236024"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-diesel/X3XOM041717522758.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-diesel/x3xom041717522758",
+      "id": "d7161eadec2a2751f1e26a62dec2e4ed875e337d"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-diesel/X3XOM041717522759.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-diesel/x3xom041717522759",
+      "id": "904690dda02956cfaf543b4dd964337ec9384c12"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-diesel/X3XOM041717522818.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-diesel/x3xom041717522818",
+      "id": "8740c71df02b3925687390f4be83512e6a7bed8b"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-diesel/X3XOM041717523034.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-diesel/x3xom041717523034",
+      "id": "5f5d7f3b0bf2db23cb5ee38973387e45a9ac4399"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-diesel/X3XOM041717523039.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-diesel/x3xom041717523039",
+      "id": "366becac9e97c9aeb5f8c5545d0158541ae40c76"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-diesel/X3XOM041717523043.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-diesel/x3xom041717523043",
+      "id": "81385aede2ab76219f28825086c29f663d5c7ff8"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041817522761.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041817522761",
+      "id": "f8ff7fa7b51fd624ca2f82fb586dbfafef8f0805"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041817522762.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041817522762",
+      "id": "1779f0ad436311f906560c8b65ce06c9adbb244f"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041817522764.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041817522764",
+      "id": "70e9f166cab9139407be9faf8ac7ccb9073c3a27"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041817522824.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041817522824",
+      "id": "64a6449d333c42e8824617106a31f64cdbb968d0"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041817523049.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041817523049",
+      "id": "e26f9431bbdf3c72e82c7f5b1b0aa36ab724bce3"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041817523054.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041817523054",
+      "id": "da3fa7092e28f6dea7684c9ba380317e256ab1d1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041817523058.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041817523058",
+      "id": "dcbbe99c36624efad48fd459563ba57cbea013b2"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041917522767.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041917522767",
+      "id": "a70088ab6927096672cef746ed840680eeb6deb9"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041917522771.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041917522771",
+      "id": "81a491bccbc8ad15adda7fc11c4607a10b5fd557"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041917522775.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041917522775",
+      "id": "7715f7acdc2bb65ffc83e71f32c11cd26266c145"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041917522829.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041917522829",
+      "id": "d3ccc1187a09f164d8c38eaae13687ea9a7e0dda"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041917523066.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041917523066",
+      "id": "bac945dc7a8885f23bece9d40e14a8f065433a1d"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041917523071.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041917523071",
+      "id": "d2052cf13bd214c9aa138ec8d04f9a8d5e74f23a"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-mx3-pro-petrol/X3XOM041917523077.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-mx3-pro-petrol/x3xom041917523077",
+      "id": "2c84355e23bc59a32472b9a8b79f4c285eff8d7a"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-a-petrol/X3XOM079617905099.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-a-petrol/x3xom079617905099",
+      "id": "f57faba7385782db5a4c2aa8bb55aa70e59a9a92"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-a-petrol/X3XOM079617905100.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-a-petrol/x3xom079617905100",
+      "id": "02215ccff40b44c6c1da43652b7cf893db3e5fa1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-a-petrol/X3XOM079617905101.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-a-petrol/x3xom079617905101",
+      "id": "2688216aa96ec5a7ffedce22c93524b6f23bb9dc"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-a-petrol/X3XOM079617905102.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-a-petrol/x3xom079617905102",
+      "id": "ce61bba6f895b7c37e2ee985069f3737ed30574f"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-a-petrol/X3XOM079617905103.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-a-petrol/x3xom079617905103",
+      "id": "b251339d44e929d07fdb27d7d4f8fb02ebe1ed1a"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-a-petrol/X3XOM079717905094.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-a-petrol/x3xom079717905094",
+      "id": "769be807e5918b23522af4715f69acea077aaef3"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-a-petrol/X3XOM079717905095.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-a-petrol/x3xom079717905095",
+      "id": "507a59e1bb289eb1434784e72f2fe7e4b784341f"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-a-petrol/X3XOM079717905096.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-a-petrol/x3xom079717905096",
+      "id": "d8c99c6c6ae4dded99ac1564f8f6460d908c6ad5"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-a-petrol/X3XOM079717905097.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-a-petrol/x3xom079717905097",
+      "id": "723cf6bd0d08e0c75e64a5091d8eb357c69e2d05"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-a-petrol/X3XOM079717905098.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-a-petrol/x3xom079717905098",
+      "id": "868eaf844efa64e3bde0e7ffd87a62e4adcd5000"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-m-%28o%29-petrol/X3XOM079917905104.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-m-o-petrol/x3xom079917905104",
+      "id": "bbfc7564c92e611ff16e758d22aaf4e1c46496ab"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-m-%28o%29-petrol/X3XOM079917905105.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-m-o-petrol/x3xom079917905105",
+      "id": "5ec67ff15c2d9e8a6b237405d12c4fdb9808277b"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-m-%28o%29-petrol/X3XOM079917905106.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-m-o-petrol/x3xom079917905106",
+      "id": "99df7165fa9a1f14bb55c3e12cdba672940d213c"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-m-%28o%29-petrol/X3XOM079917905107.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-m-o-petrol/x3xom079917905107",
+      "id": "9c658efec070e9bcbac6cd5ac054787ff3077971"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-m-%28o%29-petrol/X3XOM079917905108.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-m-o-petrol/x3xom079917905108",
+      "id": "af067036b6d5580cd41fc7db23ee28bcbcce66fa"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-m-petrol/X3XOM079817905089.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-m-petrol/x3xom079817905089",
+      "id": "605f2ce4173d17cc9dacde2260dd0f1b6a055132"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-m-petrol/X3XOM079817905090.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-m-petrol/x3xom079817905090",
+      "id": "1d6684f57eafb8c1d70f7e7d9b361963f4d6d3b4"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-m-petrol/X3XOM079817905091.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-m-petrol/x3xom079817905091",
+      "id": "b9e5ca95bc8cc4ed396564d26cc61c5dd4ecd0b4"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-m-petrol/X3XOM079817905092.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-m-petrol/x3xom079817905092",
+      "id": "a72963cf1e7817f9c8eb4fff5bcf93550fc0d4bb"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo-revx-m-petrol/X3XOM079817905093.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo-revx-m-petrol/x3xom079817905093",
+      "id": "78088f153886f4f1d940c440ebc95e6c529e5857"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv3xo/X3XO.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv3xo/x3xo",
+      "id": "ec8ddc864986db38de21a67e8069298cb1fa39ee"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-ebony-diesel/X700M064817792497.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-ebony-diesel/x700m064817792497",
+      "id": "84aa0c922b0a2b1bd6f9c878b197d69e3bbe4c19"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-ebony-diesel/X700M064917792489.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-ebony-diesel/x700m064917792489",
+      "id": "4688810668c2c11abb27a7dfe30d60a052902fd9"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-ebony-diesel/X700M065017792487.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-ebony-diesel/x700m065017792487",
+      "id": "dd6f6f47ee5488a0f4574b381e0d71895e7d9426"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-ebony-diesel/X700M065017792496.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-ebony-diesel/x700m065017792496",
+      "id": "d82b442b005c95d1af68f97c8346cf8e40888d9c"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-ebony-petrol/X700M065517792494.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-ebony-petrol/x700m065517792494",
+      "id": "45f689229f1d6765db9e960f9fd7b7a83480d2f2"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-ebony-petrol/X700M065517792501.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-ebony-petrol/x700m065517792501",
+      "id": "c80b481d67b258f2b9e1bb70ebb1ffa560dbe6f7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-ebony-petrol/X700M065617792493.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-ebony-petrol/x700m065617792493",
+      "id": "daf2ec921c8b1e67fcc0cc12d840c51ea21fc86a"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-ebony-petrol/X700M065617792500.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-ebony-petrol/x700m065617792500",
+      "id": "59414c596aa3eecbf6a0ec0378fdbe0a74991367"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-l-ebony-diesel/X700M065117792490.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-l-ebony-diesel/x700m065117792490",
+      "id": "7db01a88c10a691297b30a3937bebd47b8704d6f"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-l-ebony-diesel/X700M065117792498.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-l-ebony-diesel/x700m065117792498",
+      "id": "1b0a656c04b50a14fe7d5686009174eef028db87"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-l-ebony-diesel/X700M065217792491.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-l-ebony-diesel/x700m065217792491",
+      "id": "c040b59f9827f9f2bc4065392990e88d2780594a"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-l-ebony-diesel/X700M065317792492.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-l-ebony-diesel/x700m065317792492",
+      "id": "0014cad91777c2e0e69f300b5ed604065c1d0674"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-l-ebony-diesel/X700M065317792499.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-l-ebony-diesel/x700m065317792499",
+      "id": "a434dc48fb1a2f5d907c0b40165371bd4a5a85b1"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-l-ebony-petrol/X700M065417792495.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-l-ebony-petrol/x700m065417792495",
+      "id": "8a257b314e143c3aa71831f4a5bcf7e149e348d7"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700-ax7-l-ebony-petrol/X700M065417792502.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700-ax7-l-ebony-petrol/x700m065417792502",
+      "id": "de5e9cc4461dc84c133872b5a95f45bfb90c6a59"
+    },
+    {
+      "url": "https://auto.mahindra.com/suv/xuv700/X700.html",
+      "source": "SITEMAPS",
+      "targetPath": "/suv/xuv700/x700",
+      "id": "38dc79b0bdff1162a0f0938821a1f9473b52f654"
+    },
+    {
+      "url": "https://auto.mahindra.com/suvs/scorpio-n-black-edition",
+      "source": "SITEMAPS",
+      "targetPath": "/suvs/scorpio-n-black-edition",
+      "id": "1c1a4e9a1cc2dba6fe462454881920a486fde535"
+    },
+    {
+      "url": "https://auto.mahindra.com/suvs/scorpio-n-black-edition/z8-carbon",
+      "source": "SITEMAPS",
+      "targetPath": "/suvs/scorpio-n-black-edition/z8-carbon",
+      "id": "2d9d19ef31b5a5bcdd1a911c674a62ed7bda6cd0"
+    },
+    {
+      "url": "https://auto.mahindra.com/suvs/scorpio-n-black-edition/z8-l-carbon",
+      "source": "SITEMAPS",
+      "targetPath": "/suvs/scorpio-n-black-edition/z8-l-carbon",
+      "id": "8afca85772ca1a2c910c58d21226c4aa7d32af2f"
+    },
+    {
+      "url": "https://auto.mahindra.com/talk-about-it.html",
+      "source": "SITEMAPS",
+      "targetPath": "/talk-about-it",
+      "id": "699989e9131209ba0af8a9cb273b91dae2c92665"
+    },
+    {
+      "url": "https://auto.mahindra.com/test-drive",
+      "source": "SITEMAPS",
+      "targetPath": "/test-drive",
+      "id": "940eb310aeef593d769b105b0dc06112ac5656b4"
+    },
+    {
+      "url": "https://auto.mahindra.com/tte/tte-thankyou.html",
+      "source": "SITEMAPS",
+      "targetPath": "/tte/tte-thankyou",
+      "id": "e4a13ae0cd6968ebbaccb86b2a67e0d056782aa4"
+    },
+    {
+      "url": "https://auto.mahindra.com/ttepage.html",
+      "source": "SITEMAPS",
+      "targetPath": "/ttepage",
+      "id": "c821b6b7bf4aff0c5bf49235491ef4075ae0612c"
+    },
+    {
+      "url": "https://auto.mahindra.com/x-mart-thankyou.html",
+      "source": "SITEMAPS",
+      "targetPath": "/x-mart-thankyou",
+      "id": "1612bd775c9b005a071a8c899a9697412c36aa52"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://auto.mahindra.com/heartstobravehearts.html",
+      "status": "301 Moved Permanently Redirect: https://auto.mahindra.com/"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-pik-up/mineral-water-application.html",
+      "status": "301 Moved Permanently Redirect: https://auto.mahindra.com/cv-enquiry-form.html?pid=MAXX"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-pik-up/city-cng.html",
+      "status": "301 Moved Permanently Redirect: https://auto.mahindra.com/cv-enquiry-form.html?pid=MAXX"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-pik-up-enquiry.html",
+      "status": "301 Moved Permanently Redirect: https://auto.mahindra.com/cv-enquiry-form.html?pid=MAXX"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-pik-up/fruits-n-vegetables-application.html",
+      "status": "301 Moved Permanently Redirect: https://auto.mahindra.com/cv-enquiry-form.html?pid=MAXX"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-pik-up/fmcg-application.html",
+      "status": "301 Moved Permanently Redirect: https://auto.mahindra.com/cv-enquiry-form.html?pid=MAXX"
+    },
+    {
+      "url": "https://auto.mahindra.com/pick-up-trucks/maxx-pik-up/feature-and-specifications-maxpikup.html",
+      "status": "301 Moved Permanently Redirect: https://auto.mahindra.com/pick-up-trucks/maxx-city/MAXX.html"
+    },
+    {
+      "url": "https://auto.mahindra.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://auto.mahindra.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 404"
+    }
+  ]
+}
