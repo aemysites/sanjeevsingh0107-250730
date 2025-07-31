@@ -50,25 +50,7 @@
       "targetPath": "/commercial",
       "id": "3e8a50da8872a2ac37c07506c35959b4ab8a7090"
     },
-    {
-      "url": "https://auto.mahindra.com/contact-us.html",
-      "source": "SITEMAPS",
-      "targetPath": "/contact-us",
-      "id": "44be38d7a51e6765abd00dc77d78c6e4f4149da5"
-    },
-    {
-      "url": "https://auto.mahindra.com/cv-enquiry-form.html",
-      "source": "SITEMAPS",
-      "targetPath": "/cv-enquiry-form",
-      "id": "e9a7a2f790856708f6594f105c9e70924609f879"
-    },
-    {
-      "url": "https://auto.mahindra.com/cv-enquiry-form.html?pid=MAXX",
-      "source": "SITEMAPS",
-      "targetPath": "/cv-enquiry-form",
-      "id": "856a7ca30a887631e17dfa30b9a2334c033bbab3"
-    },
-    {
+   {
       "url": "https://auto.mahindra.com/dealer-locator",
       "source": "SITEMAPS",
       "targetPath": "/dealer-locator",
