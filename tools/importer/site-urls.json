@@ -14,13 +14,7 @@
       "targetPath": "/about-us",
       "id": "186a3974539432b7e127738dc166f7c3bd871559"
     },
-    {
-      "url": "https://auto.mahindra.com/amc-sitemap.html",
-      "source": "SITEMAPS",
-      "targetPath": "/amc-sitemap",
-      "id": "2e4a89b1fe67794caec85636f9f275658b85a11f"
-    },
-    {
+   {
       "url": "https://auto.mahindra.com/apps-download.html",
       "source": "SITEMAPS",
       "targetPath": "/apps-download",
